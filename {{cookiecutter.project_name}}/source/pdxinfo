@@ -1,0 +1,6 @@
+name={{cookiecutter.pretty_name}}
+author={{cookiecutter.author}}
+description={{cookiecutter.description}}
+bundleID=com.axevalley.{{cookiecutter.project_name}}
+version=1.0.0
+buildNumber=1

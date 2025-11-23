@@ -1,0 +1,9 @@
+{
+	"project_name": "new_game",
+	"pretty_name": "New Game",
+	"author": "Luke Shiner",
+	"description": "",
+	"_copy_without_render": [
+		".vscode/*"
+	]
+}
